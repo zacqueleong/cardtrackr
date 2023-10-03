@@ -862,6 +862,7 @@ main .analytics .analytics-graph {
 
   #cardinfo-expenses {
     width: 100vw;
+    box-sizing: content-box;
   }
 
   .right-section {
