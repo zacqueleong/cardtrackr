@@ -11,6 +11,9 @@ Charts was made possible by Chart.js
 Walkthrough / Tour Video of the Application:
 https://youtu.be/Hu_SJUAO5MA
 
+Direct Web Application access via GitHub Pages: 
+https://zacqueleong.github.io/cardtrackr/
+
 This web application contains a few sections explained below.
 
 Login Section
