@@ -860,6 +860,10 @@ main .analytics .analytics-graph {
     margin: 0;
   }
 
+  #cardinfo-expenses {
+    width: 100vw;
+  }
+
   .right-section {
     width: 94%;
     margin: 0 auto 4rem;
